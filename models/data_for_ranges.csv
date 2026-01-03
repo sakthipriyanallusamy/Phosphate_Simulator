@@ -1,4 +1,4 @@
-Time_min,Ct_mg/L,Ct/Co,Phosphate_adsorbed_%,Water_type,Co_mg/L,Q_mL/min,Sand_g,Iron_sludge_g,Diameter_cm,Length_cm,Porosity_mm,Loading
+﻿Time_min,Ct_mg/L,Ct/Co,Phosphate_adsorbed_%,Water_type,Co_mg/L,Q_mL/min,Sand_g,Iron_sludge_g,Diameter_cm,Length_cm,Porosity_mm,Loading
 0,0,0,0,Model,1,14,250,0,4,19,0.95,Not_applicable
 5,0.7,0.7,30,Model,1,14,250,0,4,19,0.95,Not_applicable
 15,0.89,0.89,11,Model,1,14,250,0,4,19,0.95,Not_applicable
